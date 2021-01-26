@@ -1,0 +1,21 @@
+body {
+    background-color: #23272a;
+    color: white;
+    font-family: sans-serif;
+}
+
+.friend {
+    background-color: #2c2f33;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 0;
+}
